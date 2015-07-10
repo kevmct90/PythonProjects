@@ -1,0 +1,25 @@
+Example of why we need functions
+
+#1
+Store and reuse steps for program, but say use googles geo coding service to retrieve geo reference, say you need to reuse this 40 times?? This is why we use functions.
+
+Notes 
+Two types of functions, Built In and User defined functions, extension to the language.
+
+Def is a key word
+
+Build it once and invoke it many times.
+
+Void (non-fruitful) Functions
+• When a function does not return a value, we call it a “void” function
+• Functions that return values are “fruitful” functions
+• Void functions are “not fruitful”
+
+To function or not to function...
+• Organize your code into “paragraphs” - capture a complete thought
+and “name it”
+• Don’t repeat yourself - make it work once and then reuse it
+• If something gets too long or complex, break it up into logical
+chunks and put those chunks in functions
+• Make a library of common stuff that you do over and over - perhaps
+share this with your friends...
